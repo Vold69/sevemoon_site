@@ -1,6 +1,6 @@
 # Monday projet dashboard
 
-https://johand-company.monday.com/boards/2312459099/pulses/2312459127
+https://johand-company.monday.com/boards/2312459099
 
 # Getting Started with Create React App
 
